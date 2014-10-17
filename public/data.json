@@ -1,0 +1,27 @@
+"artists": [
+  { 
+    "id": 1,
+    "name": "Bandette",
+    "url": "http://bandettetheband.com"
+  },
+  {
+    "id": 2,
+    "name": "Pounding Horse Teeth",
+    "url": "http://poundinghorseteeth.com/"
+  }
+],
+
+"venues": [
+  {
+    "id": 1,
+    "name": "Old Towne Pub",
+    "url": "http://theoldtownepub.com",
+    "address": "66 N Fair Oaks Ave, Pasadena, CA 91103"
+  },
+  {
+    "id": 2,
+    "name": "The Kibitz Room at Canter's Deli",
+    "url": "http://www.cantersdeli.com/lounge.html",
+    "address": "419 N Fairfax Ave, Los Angeles, CA 90048"
+  }
+]
